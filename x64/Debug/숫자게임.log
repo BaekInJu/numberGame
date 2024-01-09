@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(14,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(53,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(55,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\main.c(108,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  숫자게임.vcxproj -> C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\x64\Debug\숫자게임.exe

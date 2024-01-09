@@ -1,0 +1,2 @@
+C:\Users\dldks\OneDrive\바탕 화면\c언어 중간\숫자게임\x64\Debug\숫자게임.exe
+C:\Users\dldks\OneDrive\바탕 화면\과제\C언어\c언어 중간\숫자게임\x64\Debug\숫자게임.exe
